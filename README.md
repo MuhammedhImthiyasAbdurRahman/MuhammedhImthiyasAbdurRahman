@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abdur Rahman Imthiyas
-### IT & Network Support Eng. · Enterprise Systems · Cybersecurity Enthusiast
+### IT & Network Support Eng · Enterprise Systems · Cybersecurity Enthusiast
 
 [Portfolio](https://abdurrahmanimthiyas.wordpress.com/) · [LinkedIn](https://www.linkedin.com/in/muhammedh-imthiyas-abdur-rahman-606a4a245/)
 
