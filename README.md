@@ -11,7 +11,7 @@
 
 ## About me
 
-I’m Muhammedh Imthiyas Abdur Rahman, a Computer Science graduate based in Sri Lanka. I work as an Executive – IT & Network Support at Port City BPO, supporting network infrastructure, systems and end-user devices.
+I’m Muhammedh Imthiyas Abdur Rahman, a Computer Science graduate. I work as an Executive – IT & Network Support at Port City BPO, supporting network infrastructure, systems and end-user devices.
 
 My experience spans networking, ERP development and UI/UX design. I enjoy troubleshooting practical problems and learning how systems work together.
 
@@ -33,7 +33,7 @@ My experience spans networking, ERP development and UI/UX design. I enjoy troubl
 
 ## Education & learning
 
-BSc in Computer Science — PAF-IAST, Pakistan.
+BSc in Computer Science — PAF-IAST.
 
 Professional training in CCNA (200-301) and Windows Server administration, with additional learning in Managing Network Security, Linux Fundamentals and Huawei Cloud HCCDA.
 
